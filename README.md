@@ -9,7 +9,8 @@ This React Movie Search App will be having the feature to Search the Movies from
 ✅  API integration with axios
 
 
-![image](https://user-images.githubusercontent.com/73476296/220969613-5d524de8-9641-4cd3-b3a3-0e505fb19b99.png)
+![image](https://user-images.githubusercontent.com/73476296/220970279-e8618218-ec77-4eeb-a1e1-96890328c7a1.png)
+
 ![image](https://user-images.githubusercontent.com/73476296/220969695-ad32f218-b6d9-4311-a4bb-7a30279c8ae6.png)
 ![image](https://user-images.githubusercontent.com/73476296/220969823-34be72d0-63db-4a58-8088-e3eace987147.png)
 INFO OF ANY PARTICULAR MOVIE
